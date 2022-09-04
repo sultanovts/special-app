@@ -1,0 +1,4 @@
+for multiplier_1 in range(1, 11):
+  print()
+  for multiplier_2 in range(1, 11):
+    print(multiplier_1, '*', multiplier_2, '=', multiplier_1 * multiplier_2)
